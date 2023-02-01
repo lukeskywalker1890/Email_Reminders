@@ -7,4 +7,4 @@
 
 #Use cronjobs to automatically send email reminders at a certain part of the day for every day of the week.
 
-#Use cronjobs to automatically clear the text files on the of the week.
+#Use cronjobs to automatically clear the text files on a certain day of the week.
