@@ -1,4 +1,5 @@
 # planner3
+#Don't use the same title name in my mainpl.py file you can use the same formatting though.
 
 #Permitted to use code unless otherwise stated in the files.
 
