@@ -1,5 +1,5 @@
 import time
-# Title for the email reminder maker.
+# Title for the email reminder maker. DON'T USE THE SAME TITLE NAME.
 print("""
 
  ######     #   #          #####    #####  #    #   ######  ####                                                      
