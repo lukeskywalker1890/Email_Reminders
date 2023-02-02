@@ -9,7 +9,7 @@ print("""
  ######  #         #     #####      #####  #    #   ######  ####   
 
 ------------------------------------------------------------------- 
-                        Welcome to Em Shed!                                                 
+                        Welcome to Em Shed!
 -------------------------------------------------------------------
 A dayly email reminder maker.
 You have the option to add or remove reminders to every day of the 
