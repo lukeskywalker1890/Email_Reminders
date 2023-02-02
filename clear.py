@@ -1,4 +1,4 @@
-#Open each file and reformats them.
+#Open each txt file and reformats them.
 
 file1 = open("monday.txt", "w")  # append mode
 file1.write("MONDAY:" + "\n")
