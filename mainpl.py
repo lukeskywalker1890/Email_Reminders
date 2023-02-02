@@ -11,7 +11,7 @@ print("""
 ------------------------------------------------------------------- 
                         Welcome to Em Sched!
 -------------------------------------------------------------------
-A dayly email scheduled reminder maker.
+A txt reminder maker.
 You have the option to add or remove reminders for every day of the 
 week.
 """)
